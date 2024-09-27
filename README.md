@@ -1,0 +1,2 @@
+# dtarot
+Discordian Tarot program
