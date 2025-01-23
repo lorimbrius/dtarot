@@ -1,0 +1,6 @@
+bin/dtarot
+%%PYTHON_SITELIBDIR%%/dtarot-2.7-py%%PYTHON_VER%%.egg-info/PKG-INFO
+%%PYTHON_SITELIBDIR%%/dtarot-2.7-py%%PYTHON_VER%%.egg-info/SOURCES.txt
+%%PYTHON_SITELIBDIR%%/dtarot-2.7-py%%PYTHON_VER%%.egg-info/dependency_links.txt
+%%PYTHON_SITELIBDIR%%/dtarot-2.7-py%%PYTHON_VER%%.egg-info/top_level.txt
+share/man/man1/dtarot.1.gz

@@ -1,4 +1,4 @@
-#!${PYTHON_CMD}
+#!/usr/bin/env python
 
 import sys, getopt
 import numpy as np

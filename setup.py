@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='dtarot',  
-     version='2.1',
+     version='2.7',
      scripts=['dtarot'] ,
      author="Lord Imbrius the Despondent",
      author_email="darthferrett@gmail.com",
@@ -15,6 +15,7 @@ setuptools.setup(
    long_description_content_type="text/markdown",
      url="https://github.com/lorimbrius/dtarot",
      packages=setuptools.find_packages(),
+     include_package_data=True,
      classifiers=[
          "Programming Language :: Python :: 3",
 	 "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
